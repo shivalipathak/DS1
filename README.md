@@ -2,4 +2,7 @@
 D&amp;S group exercise (git practice)
 
 MSIS
-mschonfe
+
+shivalipathak
+elenabrowne
+Krut
